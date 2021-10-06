@@ -13,6 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
+  "categories": ["MARKETING", "ANALYTICS"],
   "displayName": "SEO monitoring title tag",
   "description": "Checks if title is above 60 characters. (Keep your titles under 60 characters and most of them will be displayed properly in the SERPs. They can vary in pixel width, so there is no exact limit.)",
   "containerContexts": [
