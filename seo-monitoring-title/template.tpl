@@ -6,6 +6,7 @@
   "version": 1,
   "securityGroups": [],
   "displayName": "SEO monitoring title tag",
+  "categories": ["MARKETING", "ANALYTICS"],
   "description": "Checks if title is above 60 characters. Keep titles under 60 characters and most of them will be displayed properly in the SERPs.",
   "containerContexts": [
     "WEB"
